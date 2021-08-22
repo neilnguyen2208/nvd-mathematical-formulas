@@ -27,6 +27,7 @@ config.mathJaxClass - sets the default class for an element that will be convert
 # Bug:
 
 Currently, this version is lack of language translation.
+Working not correctly if current window have more than 1 CKEditor instance.
 
 # Another informations:
 
