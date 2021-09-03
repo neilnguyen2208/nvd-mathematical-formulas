@@ -1,5 +1,6 @@
 # nvd-mathematical-formulas
 ![logo](/images/logo.png)
+
 This is a plugin for editing mathematical formulas in ckeditor 4.
 
 # Introduction:
@@ -19,6 +20,7 @@ This plugin is my expansion for current version of Mathematical Formulas plugin.
 
 ![demo_1](/images/demo_1.png)
 ![demo_2](/images/demo_2.png)
+
 For creating another formulas without toolbar, find out in [document](https://support.apple.com/en-us/HT202501)
  
 # Setup:
