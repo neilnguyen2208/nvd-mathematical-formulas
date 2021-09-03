@@ -1,5 +1,7 @@
 # nvd-mathematical-formulas
-This is plugin for editing mathematical formulas in ckeditor 4.
+This is a plugin for editing mathematical formulas in ckeditor 4.
+![GitHub Logo](/images/logo.png)
+
 # Introduction:
 
 This plugin is my expansion for current version of Mathematical Formulas plugin. Toolbar is added for creating mathematical formulas faster. Formulas is rended by MathJax. The toolbar UI is based on CodeCogs and modified by us for rendering TeX formulas supported by MathML.
